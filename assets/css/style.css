@@ -1,0 +1,135 @@
+/* Reset Css */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+}
+
+a{text-decoration: none;}
+
+
+body {
+  font-family:"Poppins";
+}
+
+/* Start Header */
+.header{
+    background-color: #222222;
+}
+
+/* Start Container Header */
+.container-header{
+    width: 1440px;
+    height: 82.18px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 18rem;
+}
+
+/* Start Menu */
+.nav-list{
+    display: flex;
+    gap: 3.5rem;
+    color: #E6E6E6;
+}
+
+.nav-item a{
+    color: #E6E6E6;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.nav-item a:hover{
+    background-image: linear-gradient(120deg,rgba(255, 134, 96, 1) 0%,rgba(154, 51, 255, 1) 100%);
+    background-clip: text;
+    color: transparent;
+}
+/* ================================ */
+/* ================================ */
+/* ================================ */
+
+/* Start Main */
+.main{
+    background-color: #161513;
+    height: 2670px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 4rem;
+}
+
+/* Start Section Top */
+.section-top{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Avatar Img */
+.avatar{
+    width: 213px;
+    height: 213px;
+}
+
+.avatar img{
+    width: 100%;
+}
+
+/* Title */
+.title-top{
+    color: #fff;
+    font-size: 55px;
+    text-align: center;
+    font-weight: 800;
+    line-height: 3.8rem;
+}
+
+.gradient {
+  background-image: linear-gradient(120deg,rgba(255, 134, 96, 1) 0%,rgba(154, 51, 255, 1) 100%);
+  background-clip: text;
+  color: transparent;
+}
+
+/* Description */
+.desc-top{
+    text-align: center;
+    color: #C5C5C5;
+    font-weight: 300;
+    line-height: 1.5rem;
+    margin-top: 2.5rem;
+}
+
+/* Btns */
+.btns{
+    display: flex;
+    margin-top: 2.5rem;
+    gap: 1.5rem;
+}
+
+.btn{
+    width: 195px;
+    height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 21.38px;
+    border-radius: 50px;
+    font-weight: 600;
+}
+
+.btn1{
+    background-color: #fff;
+    color: black;
+}
+
+.btn1:hover{background-color: #d6d2d2;}
+
+.btn2{
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+.btn2:hover{background-color: #313130;}
