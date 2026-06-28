@@ -12,7 +12,7 @@ Figma Community Portfolio Template:
 https://www.figma.com/proto/v2tgWOivUCrAQcFtNUCG1O/Developer-Portfolio-Website-Design--Community-?node-id=0-1
 
 ## 🚀 Live Demo
-https://NimaHosseinzadeh.github.io/figma-portfolio-practice/
+[https://NimaHosseinzadeh.github.io/figma-portfolio-practice/](https://nimahosseinzadeh.github.io/figma-portfolio-practicePublic/)
 
 ## ⚠️ Disclaimer
 This project is for educational purposes only. The original design belongs to its creator on Figma Community.
