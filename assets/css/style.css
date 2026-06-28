@@ -158,7 +158,26 @@ body {
 }
 
 .top-icon-img-container img{
+    cursor: pointer;
+}
+
+.i-42{
+    width: 42px;
+    height: 42px;
+}
+
+.html{
+    width: 37.04px;
+    height: 42px;
+}
+
+.css{
     width: 37px;
+    height: 42px;
+}
+
+.react{
+    width: 47px;
     height: 42px;
 }
 
